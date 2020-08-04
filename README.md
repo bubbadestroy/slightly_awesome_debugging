@@ -43,7 +43,8 @@ https://webcache.googleusercontent.com/search?q=cache:RLu6BbFbli0J:https://wix.g
 https://webcache.googleusercontent.com/search?q=cache:0h1zIWGKckIJ:https://wix.github.io/yoshi/docs/development/debugging/+&cd=2&hl=en&ct=clnk&gl=us&client=firefox-b-1-d<BR>
 
 # WIKI
-<br> Yes there is a wiki, with other links as well as some of the above. #bubbadestroyentropy <br>
+<br> Yes there is a wiki, with other links as well as some of the above. <br>Complaints on wtf purpose of a wiki here go to #bubbadestroyentropy <br>
+https://github.com/bubbadestroy/slightly_awesome_debugging/wiki<br>
 # ABOUT FILES 
 <bR>This Repo
 <BR><B>PDFs and Other Captures  <BR>
