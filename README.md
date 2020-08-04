@@ -28,9 +28,10 @@ https://webcache.googleusercontent.com/search?q=cache:RLu6BbFbli0J:https://wix.g
 https://webcache.googleusercontent.com/search?q=cache:0h1zIWGKckIJ:https://wix.github.io/yoshi/docs/development/debugging/+&cd=2&hl=en&ct=clnk&gl=us&client=firefox-b-1-d<BR>
 
 
-# ABOUT <BR><B>THE PDFS AND OTHER REPO UPLOADS<BR>
+# ABOUT
+<BR><B>PDFs and Other Captures  <BR>
 
-<br> Most methods used to capture pdf files found in this repo include but not limited to the following:
+<br> Most forensic methods used to capture source such as the pdf files found in this repo include but not limited to the following:
 
 <b>FIRESHOT
 
