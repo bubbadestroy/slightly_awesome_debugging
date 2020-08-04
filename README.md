@@ -8,7 +8,7 @@ That said, sharing information found on the internet, so f.t.f.o. if you don't l
 
 Enjoy!
 
-
+<br>
 <b>Servo Micro</b>
 
 Servo Micro is a self-contained replacement for Yoshi Servo flex. It is meant to be compatible with Servo v2/v3 via servod. The design uses case closed debug software on an STM32 MCU to provide a CCD interface into systems with a Yoshi debug port.
@@ -16,6 +16,7 @@ Servo Micro is a self-contained replacement for Yoshi Servo flex. It is meant to
 Servo Micro is usually paired with a Servo v4 Type-A, which provides ethernet, dut hub, and muxed usb storage.
 
 See the detailed documentation in Servo Micro.
+<br>
 https://github.com/bubbadestroy/slightly_awesome_debugging/blob/master/Debugging%20I%20Yoshi%20Universe%20-%20webcache_googleusercontent_com.pdf
 
 Source: 
