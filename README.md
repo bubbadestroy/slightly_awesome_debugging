@@ -5,12 +5,19 @@ Debugging related PDFs captured from not my sources
 
 Enjoy!
 <br>
-# 3.5mm to USB<br>
-
-Reference Source:<br>
+# 3.5mm to USB
+<br>
+Nexus Uart Pixel Phone ver 1 Sailfish Pine64 etc Many other Phones and Devices serial debug from what looks like just a headphone jack..<br>
+slightly more than awesome explanation found here:<br>
+https://wiki.postmarketos.org/wiki/Serial_debugging<br>
+https://www.optiv.com/explore-optiv-insights/blog/building-nexus-4-uart-debug-cable
+<br>Pi USB TTL serial via 3.5mm stereo audio jack connection<br>
 https://www.raspberrypi.org/forums/viewtopic.php?t=206899<br>
+Audio Video Cables<br>
+http://www.cpmspectrepi.uk/raspberry_pi/MoinMoinExport/ExtendedTestKit.html#TRRS_Audio.2FVideo_Cables
 
-#Google<br>
+# Google
+<br>
 PIxel, Chromebook, ChromiumOS, Chromium, and More
 
 <br>
