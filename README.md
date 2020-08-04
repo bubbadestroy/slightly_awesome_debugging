@@ -1,12 +1,17 @@
 # slightly_awesome_debugging<BR>
 Debugging related PDFs captured from not my sources
 <BR>
-Disclaimer:<BR>
-I do not own the rights to any content dumped in this repository. Owners of said source may request a take-down claim, with including signature (digital handwritten dna or other element) <BR>
-
-That said, sharing information found on the internet, so f.t.f.o. if you don't like it, don't go public (oti) with it. <BR>
+  
 
 Enjoy!
+<br>
+# 3.5mm to USB<br>
+
+Reference Source:<br>
+https://www.raspberrypi.org/forums/viewtopic.php?t=206899<br>
+
+#Google<br>
+PIxel, Chromebook, ChromiumOS, Chromium, and More
 
 <br>
 <b>Servo Micro</b>
@@ -60,3 +65,9 @@ The software can be installed using sudo apt-get install wkhtmltopdf.<BR>
 # Other Stuff
 HTTrack Website Copier, copy websites to your computer (Official repository)<br>>
 https://github.com/search?q=httrack<BR>
+  
+  
+Disclaimer:<BR>
+I do not own the rights to any content dumped in this repository. Owners of said source may request a take-down claim, with including signature (digital handwritten dna or other element) <BR>
+
+That said, sharing information found on the internet, so f.t.f.o. if you don't like it, don't go public (oti) with it. <BR>
