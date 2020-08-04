@@ -1,5 +1,5 @@
 # Slightly Awesome Debugging<BR>
-Debugging related PDFs captured from not my sources
+Debugging related PDFs captured from not my sources.
 <BR>
   
 
@@ -42,8 +42,10 @@ https://webcache.googleusercontent.com/search?q=cache:RLu6BbFbli0J:https://wix.g
 
 https://webcache.googleusercontent.com/search?q=cache:0h1zIWGKckIJ:https://wix.github.io/yoshi/docs/development/debugging/+&cd=2&hl=en&ct=clnk&gl=us&client=firefox-b-1-d<BR>
 
-
-# ABOUT
+# WIKI
+<br> Yes there is a wiki, with other links as well as some of the above. #bubbadestroyentropy <br>
+# ABOUT FILES 
+<bR>This Repo
 <BR><B>PDFs and Other Captures  <BR>
 
 <br> Most forensic methods used to capture source such as the pdf files found in this repo include but not limited to the following:
@@ -78,3 +80,5 @@ https://github.com/search?q=httrack<BR>
 I do not own the rights to any content dumped in this repository. Owners of said source may request a take-down claim, with including signature (digital handwritten dna or other element) <BR>
 
 That said, sharing information found on the internet, so f.t.f.o. if you don't like it, don't go public (oti) with it. <BR>
+  Oh, and yes the auther understands what version control is. Bubbadestroy version control. There will be 0 commit notes found within. 
+Complaints can be sent here. #githubisnotmypersonalblog or here #gitfraudwasteandabuselol
