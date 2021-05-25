@@ -78,8 +78,8 @@ HTTrack Website Copier, copy websites to your computer (Official repository)<br>
 https://github.com/search?q=httrack<BR>
   
   <b>Disclaimer:<BR>
-I do not own the rights to any content dumped in this repository. Owners of said source may request a take-down claim, with including signature (digital handwritten dna or other element) <BR>
+I do not own the rights to any content dumped in this repository. Owners of said source may request a take-down claim, with including signature (digital handwritten dna or other etc.) <BR>
 
-That said, sharing information found on the internet, so f.t.f.o. if you don't like it, don't go public (oti) with it. <BR>
-  Oh, and yes the auther understands what version control is. Bubbadestroy version control. There will be 0 commit notes found within. 
-Complaints can be sent here. #githubisnotmypersonalblog or here #gitfraudwasteandabuselol
+That said, sharing information found on the internet, so f.t.f.o. if you don't like it, don't publish OTI. <BR>
+  Oh, and yes the "author" "understands" BVC. Bubbadestroy version control. There will be 0 commit notes found within. 
+Complaints can be sent here. #isgitapersonalblog or here #gitsomefraudwasteabuse
